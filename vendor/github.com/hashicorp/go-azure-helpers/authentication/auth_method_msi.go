@@ -3,7 +3,7 @@ package authentication
 import (
 	"context"
 	"fmt"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"os"
 
 	"github.com/Azure/go-autorest/autorest"
