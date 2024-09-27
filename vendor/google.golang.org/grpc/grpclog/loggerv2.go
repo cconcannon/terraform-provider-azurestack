@@ -21,7 +21,7 @@ package grpclog
 import (
 	"io"
 	"io/ioutil"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"os"
 	"strconv"
 

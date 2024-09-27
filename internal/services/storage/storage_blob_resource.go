@@ -2,7 +2,7 @@ package storage
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"strings"
 	"time"
 

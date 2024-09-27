@@ -2,7 +2,7 @@ package sdk
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sirupsen/logrus"
 )
 
 var _ Logger = ConsoleLogger{}
